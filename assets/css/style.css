@@ -208,4 +208,9 @@
     border-radius: 100px;
     background: var(--action-primary, #25DAC5);
     border: none;
+    cursor: pointer;
+}
+
+.cursr{
+    cursor: pointer;
 }
